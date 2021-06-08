@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623169901 source:c:\users\jeter\desktop\programming\file handling 1\main.c
+	<stdlib.h>
+	<stdio.h>
+
